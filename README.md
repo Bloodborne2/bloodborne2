@@ -4,7 +4,7 @@ Bem-vindo ao meu perfil no GitHub! Aqui estão algumas informações sobre minha
 
 ## Estatísticas de Linguagens
 
-![Github Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language.svg?username=bloodborne2)
+![Github Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language.svg?username=Bloodborne2)
 
 ## Estatísticas Gerais
 
