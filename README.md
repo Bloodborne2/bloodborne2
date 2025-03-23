@@ -4,7 +4,7 @@
 ---
 
 ### 🚀 Sobre mim
-- 🎓 Atualmente cursando **Tecnologia em Análise e Desenvolvimento de Sistemas** no **Centro Universitário Senac** (2024 - 2027).
+- 🎓 Atualmente cursando **Tecnologia em Análise e Desenvolvimento de Sistemas** no **Centro Universitário Senac** (2024 - 2026).
 - 💼 Experiência como **Jovem Aprendiz em TI** na Pop Trade Marketing, atuando com **suporte técnico e help desk**.
 - 🛠️ Tenho interesse em **desenvolvimento de software, UX/UI Design e segurança da informação**.
 - 💬 Posso te ajudar com **Python, Java, HTML, CSS, JavaScript e análise de UX/UI**.
@@ -45,21 +45,6 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=bloodborne2&theme=onedark&no-frame=true&column=4"/>
 </div>
-
----
-
-### 🎮 Sobre Mim Além da Programação
-
-- 🎮 Amo jogar **Bloodborne**, **Dark Souls** e outros jogos desafiadores.
-- 📚 Gosto de aprender sobre **filosofia**, **psicologia** e **design de interfaces**.
-- 🎵 Sou apaixonado por **música**, especialmente rock e trilhas sonoras de jogos.
-
----
-
-### 🚀 Projetos Destacados
-
-- 🛠️ **[Projeto UX/UI: Netflix Mobile](https://github.com/seu-repo)** - Análise completa da interface do app da Netflix para celulares.
-- 📱 **[App de Tarefas Responsivo](https://github.com/seu-repo)** - Aplicativo simples e eficiente para gerenciamento de tarefas.
 
 ---
 
