@@ -3,12 +3,6 @@
 
 ---
 
-### 🧠 Sobre o Perfil
-
-Atualmente cursando **Tecnologia em Análise e Desenvolvimento de Sistemas** no **Centro Universitário Senac**. Tenho experiência prática com **Java**, **Python**, **JavaScript**, **HTML/CSS** e **UX/UI Design**, além de familiaridade com versionamento, boas práticas de programação e desenvolvimento front-end.
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -17,6 +11,12 @@ Atualmente cursando **Tecnologia em Análise e Desenvolvimento de Sistemas** no 
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bloodborne2&layout=compact&langs_count=8&theme=radical"/>
   </a>
 </div>
+
+---
+
+### 🧠 Sobre o Perfil
+
+Atualmente cursando **Tecnologia em Análise e Desenvolvimento de Sistemas** no **Centro Universitário Senac**. Tenho experiência prática com **Java**, **Python**, **JavaScript**, **HTML/CSS** e **UX/UI Design**, além de familiaridade com versionamento, boas práticas de programação e desenvolvimento front-end.
 
 ---
 
