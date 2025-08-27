@@ -28,13 +28,6 @@ Cursando **Tecnologia em Análise e Desenvolvimento de Sistemas** no **Centro Un
 
 ---
 
-### Conquistas no GitHub
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bloodborne2&theme=darkhub&no-frame=true&column=4"/>
-</div>
-
----
 
 ### Contato
 
