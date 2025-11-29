@@ -1,41 +1,31 @@
-<h1 align="center">Carlos Eduardo Miranda de Melo</h1>
-<h3 align="center">Desenvolvedor em formação | Foco em código limpo, performance e aprendizado contínuo</h3>
+Carlos Eduardo Miranda de Melo
+Desenvolvedor em formação · Código limpo · Performance · Aprendizado contínuo
+Resumo
+Cursando Tecnologia em Análise e Desenvolvimento de Sistemas no Centro Universitário Senac. Atuo em desenvolvimento full stack em projetos acadêmicos e pessoais, com foco em qualidade de código, performance e experiência do usuário. Busco oportunidades para aplicar boas práticas, automação de testes e entrega contínua.
 
----
+Competências principais
+Linguagens: Java; Python; JavaScript; HTML; CSS
 
-### GitHub Stats
+Front end: React; HTML semântico; CSS responsivo
 
-<div align="center">
-  <a href="https://github.com/bloodborne2">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bloodborne2&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bloodborne2&layout=compact&langs_count=8&theme=radical"/>
-  </a>
-</div>
+Ferramentas: Git; GitHub; VS Code; Figma
 
----
+Práticas: Clean code; versionamento; testes; acessibilidade; UX/UI
 
-### Sobre o Perfil
+Projetos e contribuições
+Desenvolvimento de aplicações web com ênfase em performance e acessibilidade.
 
-Cursando **Tecnologia em Análise e Desenvolvimento de Sistemas** no **Centro Universitário Senac**. Experiência prática com **Java**, **Python**, **JavaScript**, **HTML/CSS** e **UX/UI Design**, além de conhecimento em versionamento, boas práticas de programação e desenvolvimento front-end.
+Integração de APIs REST e automação de builds.
 
----
+Participação em projetos com controle de versão, revisão de código e deploy contínuo.
 
-### Principais Tecnologias
+GitHub Stats
+<div align="center"> <a href="https://github.com/bloodborne2"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bloodborne2&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bloodborne2&layout=compact&langs_count=8&theme=radical"/> </a> </div>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,git,github,vscode,figma" />
-</div>
+Tecnologias
+<div align="center"> <img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,git,github,vscode,figma" /> </div>
 
----
+Contato
+<div align="center"> <a href="https://www.linkedin.com/in/carlos-eduardo-miranda-de-melo" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="mailto:carlos.melo.dev@gmail.com"> <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a> </div>
 
-
-### Contato
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/carlos-eduardo-miranda-de-melo" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:carlos.melo.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</div>
+Disponível para estágios e projetos freelance.
